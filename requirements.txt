@@ -1,0 +1,10 @@
+# RAG Pipeline dependencies
+langchain==0.3.0
+langchain-core==0.3.15
+langchain-community==0.3.0
+langchain-groq==0.2.0
+langchain-text-splitters==0.3.0
+faiss-cpu==1.8.0
+pypdf==4.0.0
+sentence-transformers==3.0.0
+python-dotenv==1.0.0
